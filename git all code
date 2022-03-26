@@ -1,1 +1,19 @@
+git init
+git config --global user.name najmul
+git config --global user.email najmul@gmail.com
+multiple file stage e nite // git add -A
+root folder stage e nite // git add .
+single file stage e nite // git add index.html
+folder er vitore gite kono file stage e nite caile // git add myreact/home.js
+hidden file dekte caile // las -lart
+git status
+stage theke local e pire ante // git reset
+
+commit korte caile // git commit -m 'message'
+cloud server host korte // git push -u origin master
+
+deleted file piriye ante // git checkout index.html
+deleted sob file pire pete // git checkout -f   ba  git checkout .
+
+
 
