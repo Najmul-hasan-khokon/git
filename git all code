@@ -16,4 +16,8 @@ deleted file piriye ante // git checkout index.html
 deleted sob file pire pete // git checkout -f   ba  git checkout .
 
 
+ek branch theke onno branch e move korte // git checkout main
+new branch make tar sathe move korte // git checkout -b main or something
+
+
 
