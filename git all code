@@ -10,6 +10,7 @@ git status
 stage theke local e pire ante // git reset
 
 commit korte caile // git commit -m 'message'
+git repository er sathe gitbase comment hoyeche kina check korar jonno // git remote -v 
 cloud server host korte // git push -u origin master
 
 deleted file piriye ante // git checkout index.html
