@@ -26,3 +26,5 @@ maje modde project cloud e push na hole // git push -u origin master -f
 
 
 branch delete korte  // git branch -D master
+
+git clone full Github Url -b branch Name
